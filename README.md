@@ -2,6 +2,8 @@
 
 Lisp [Racket Scheme](https://racket-lang.org/) programs to draw digital art.
 
+These experiments started here: [https://en.wikipedia.org/wiki/Barnsley_fern](https://en.wikipedia.org/wiki/Barnsley_fern).
+
 ## Leaf
 
 [source](src/leaf)
