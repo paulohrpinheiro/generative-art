@@ -8,28 +8,34 @@ These experiments started here: [https://en.wikipedia.org/wiki/Barnsley_fern](ht
 
 [source](src/leaf)
 
-![leaf](src/leaf/leaf.png)
+![Leaf](src/leaf/leaf.png)
 
 ## Palm
 
 [source](src/palm)
 
-![leaf](src/palm/palm.png)
+![Palm](src/palm/palm.png)
 
 ## Walker
 
 [source](src/walker)
 
-![leaf](src/walker/walker.png)
+![Walker](src/walker/walker.png)
 
 ## Zvezda
 
 [source](src/zvezda)
 
-![leaf](src/zvezda/zvezda.png)
+![Zvezda](src/zvezda/zvezda.png)
 
 ## Branches
 
 [source](src/branches)
 
-![leaf](src/branches/branches.png)
+![Branches](src/branches/branches.png)
+
+## xyInverse
+
+[source](src/xyinverse)
+
+![xyInverse](src/xyinverse/xyinverse.png)
