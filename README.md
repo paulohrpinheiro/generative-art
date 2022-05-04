@@ -39,3 +39,9 @@ These experiments started here: [https://en.wikipedia.org/wiki/Barnsley_fern](ht
 [source](src/xyinverse)
 
 ![xyInverse](src/xyinverse/xyinverse.png)
+
+## x2y5mod50
+
+[source](src/x2y5mod50)
+
+![xyInverse](src/x2y5mod50/x2y5mod50.png)
