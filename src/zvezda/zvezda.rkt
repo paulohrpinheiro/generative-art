@@ -1,9 +1,9 @@
 #lang racket
 (require plot)
 
-(define totalPoints 1e5)
+(define totalPoints 1e6)
 (define initial (cons 0 0))
-(define size 800)
+(define size 3000)
 
 (define (realRandom)
   (/ (random 4294967087) 4294967086.0))
